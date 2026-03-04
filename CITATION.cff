@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this pipeline or data, please cite both the software and the original paper."
+title: "Bioinformatics Pipeline for Analyzing Space-Flown Mammary Gland"
+version: 1.0.0
+doi: 10.5281/zenodo.18866440
+date-released: 2025-12-10
+url: "https://doi.org/10.5281/zenodo.18866440"
+authors:
+  - family-names: "Abadifard"
+    given-names: "Soheil"
+    orcid: "https://orcid.org/0000-0002-2980-4251"
+    affiliation: "Kansas State University"
+  - family-names: "Baloch"
+    given-names: "Maria"
+    orcid: "https://orcid.org/0009-0002-6470-9361"
+    affiliation: "Kansas State University"
+  - family-names: "Guarnieri"
+    given-names: "Joseph W."
+    affiliation: "Blue Marble Space Institute of Science; Center for Mitochondrial and Epigenomic Medicine"
+  - family-names: "Mathyk"
+    given-names: "Begum A."
+    orcid: "https://orcid.org/0000-0001-9832-6284"
+    affiliation: "University of South Florida Morsani College of Medicine"
+  - family-names: "McGinty"
+    given-names: "Hande K."
+    orcid: "https://orcid.org/0000-0002-9025-5538"
+    affiliation: "Kansas State University"
+preferred-citation:
+  type: conference-paper
+  title: "Bioinformatics Pipeline for Analyzing Space-Flown Mammary Gland"
+  authors:
+    - family-names: "Abadifard"
+      given-names: "Soheil"
+    - family-names: "Baloch"
+      given-names: "Maria"
+    - family-names: "Guarnieri"
+      given-names: "Joseph W."
+    - family-names: "Mathyk"
+      given-names: "Begum A."
+    - family-names: "McGinty"
+      given-names: "Hande K."
+  year: 2025
+  start: 1
+  end: 4
+  doi: 10.5281/zenodo.18866440
