@@ -1,5 +1,7 @@
 # Bioinformatics Pipeline for Analyzing Space-Flown Mammary Gland
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18866440.svg)](https://doi.org/10.5281/zenodo.18866440)
+
 **Authors:** Soheil Abadifard¹, Maria Baloch¹, Joseph W. Guarnieri²³, Begum A. Mathyk⁴⁵, Hande K. McGinty¹*
 <br>
 **Affiliations:**
@@ -17,16 +19,11 @@ This study investigates how age affects the biological response of mammary gland
 ## Keywords
 Bioinformatics, Gene Ontology, Drug Target Ontology (DTO), Differentially Expressed Genes, Space Radiation, Astronaut Health, Cancer Risk Assessment, NASA OSDR, Aging.
 
-## Publication Info
-**Conference:** K-CAP’25: The Thirteenth International Conference on Knowledge Capture
-**Date:** December 10–12, 2025
-**Location:** Dayton, OH
-**Proceedings:** CEUR Workshop Proceedings
 
 ## Citation
 If you use this pipeline or data, please cite:
 
-> Abadifard, S., Baloch, M., Guarnieri, J. W., Mathyk, B. A., & McGinty, H. K. (2025). Bioinformatics Pipeline for Analyzing Space-Flown Mammary Gland. *K-CAP’25: The Thirteenth International Conference on Knowledge Capture*. CEUR Workshop Proceedings.
+> Abadifard, S., Baloch, M., Guarnieri, J. W., Mathyk, B. A., & McGinty, H. K. (2025). Bioinformatics Pipeline for Analyzing Space-Flown Mammary Gland. *K-CAP’25: The Thirteenth International Conference on Knowledge Capture*. https://doi.org/10.5281/zenodo.18866440
 
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0).
